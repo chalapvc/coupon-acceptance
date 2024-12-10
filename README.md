@@ -68,4 +68,4 @@ Lower-income drivers who frequent budget-friendly restaurants are more likely to
 ### Summary Hypothesis:
 Drivers who accept bar coupons are generally younger, socially active, and budget-conscious individuals. Their frequent visits to bars, coupled with social engagement and cost-awareness, make them highly receptive to promotional offers that enhance their social experiences affordably.
 
-For more details on the logic and visualizations used in this project, please refer to the GitHub Pages documentation.
+For more details on the logic and visualizations used in this project, please refer to the [GitHub Pages](https://github.com/chalapvc/coupon-acceptance/blob/main/prompt.ipynb).
